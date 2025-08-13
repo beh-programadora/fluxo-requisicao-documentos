@@ -2,13 +2,6 @@
 
 Este projeto é uma **simulação interativa** de um fluxo de requisição de documentos internos de uma empresa, passando por diferentes departamentos como **Recursos Humanos (RH)**, **Financeiro** e **Jurídico**.  
 O objetivo é demonstrar de forma visual como uma solicitação é criada, analisada e concluída.
-
----
-
-## 🚀 Demonstração
-🔗 **Acesse o projeto publicado**:  
-[Seu GitHub Pages aqui](https://SEU-USUARIO.github.io/fluxo-requisicao-documentos/)
-
 ---
 
 ## 📌 Funcionalidades
