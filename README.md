@@ -4,6 +4,8 @@ Este projeto é uma **simulação interativa** de um fluxo de requisição de do
 O objetivo é demonstrar de forma visual como uma solicitação é criada, analisada e concluída.
 ---
 
+URL: https://resilient-starburst-c41c42.netlify.app/
+
 ## 📌 Funcionalidades
 - 📋 Formulário para solicitar documentos internos  
 - 🔄 Simulação do fluxo de aprovação pelos departamentos  
